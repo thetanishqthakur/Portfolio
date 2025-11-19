@@ -10,6 +10,7 @@ const Skills = () => {
     "Express.Js",
     "Next.Js",
     "API Integration",
+    "MongoDb",
   ];
 
   return (
